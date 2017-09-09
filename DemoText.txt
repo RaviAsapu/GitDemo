@@ -1,2 +1,4 @@
 test with newbranch
 updated in master
+line added in newbranch
+
