@@ -1,1 +1,2 @@
 test with newbranch
+line added in newbranch
